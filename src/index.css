@@ -1,13 +1,28 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import './assets/transfonter.org-20221212-191551/stylesheet.css';
+
+
+:root{
+  --background-color: #FAFAFE;
+  --primary-color: #45979c;
+  --nature-dark: #323F68;
+  --secondary-color: #000000;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+
+
+*{
+  box-sizing: border-box;
+  padding: 0%;
+  margin: 0%;
+  list-style-type: none;
+  text-decoration: none;
 }
+
+body{
+  font-family: 'Jost';
+  background: var(--background-color);
+}
+
+
+

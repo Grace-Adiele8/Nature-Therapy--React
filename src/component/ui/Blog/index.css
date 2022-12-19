@@ -1,0 +1,33 @@
+.blog{
+    margin-top: 116px;
+}
+.blogs_image h6{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 200%;
+    color: #323F68;
+    margin-bottom: 8px;
+    margin-top: 20px;
+}
+
+.blogs_image p{
+    font-weight: 400;
+font-size: 16px;
+line-height: 200%;
+color: #323F68;
+width: 298px;
+margin-bottom: 27px;
+}
+
+.read{
+    display: flex;
+    align-items: center;
+}
+
+.read a{
+   margin-right: 24px;
+   font-weight: 700;
+   font-size: 16px;
+   line-height: 200%
+     
+}

@@ -1,0 +1,34 @@
+.base-button{
+    padding: 11px 30px;
+    border-radius: 10px;
+    background: #45979C;
+    border: #45979C;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20.8px;
+    color: #fafafe;  
+}
+
+.review-button{
+    padding: 7px 14px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 130%;
+    color: #fafafe;
+    background: #45979C;
+    border-radius: 10px;
+    border: 10px;
+    margin-top: 20px;
+}
+.appointment-button{
+    padding: 14px 57px;
+    background: #45979C;
+    border-radius: 10px;
+    border: 10px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 130%;
+    color: #fafafe;
+    
+}

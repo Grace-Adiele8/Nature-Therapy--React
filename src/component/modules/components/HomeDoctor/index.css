@@ -1,0 +1,36 @@
+.doctors_services{
+    max-width: 1116px;
+    margin: 0% auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 89px;
+}
+
+.doctors_services_text h4{
+    font-weight: 700;
+font-size: 24px;
+line-height: 130%;
+color: #45979C;
+margin-bottom: 20px;
+}
+.doctors_services_text p{
+    font-weight: 400;
+font-size: 16px;
+line-height: 200%;
+color: #323F68;
+margin-top: 20px;
+width: 429px;
+}
+
+.doctors_services_text h2{
+    font-weight: 700;
+font-size: 40px;
+line-height: 50px;
+color: #323F68;
+max-width: 421px;
+}
+.doctors_services_image{
+    width: 420.36px;
+    height: 525.5px;
+}

@@ -1,0 +1,36 @@
+/* .cards_services{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 39px;
+max-width: 1260px;
+
+text-align: center;
+
+} */
+
+.services_image{
+    background: #FFFFFF;
+    box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.1);
+    border-radius: 20px; 
+    width: 390px;
+     padding: 86px 36px 110px 36px ;
+}
+
+.services_image p{
+    width: 280px;
+    font-weight: 400;
+font-size: 16px;
+line-height: 130%;
+color: #323f68;
+
+}
+
+.services_image:nth-child(2){
+    margin-left: 45px;
+    margin-right: 45px;
+}
+.cards{
+    
+     display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,28 @@
+.services-text{
+    text-align: center;
+   
+    max-width: 562px;
+    margin: 0% auto;
+}
+.services-text p{
+    font-weight: 400;
+font-size: 16px;
+line-height: 200%;
+color: #323F68;
+width: 573px;
+margin-bottom: 20px;
+margin-top: 4px;
+
+}
+.services{
+    margin-top: 144px;
+    max-width: 1260px;
+    margin: 0% auto;
+    text-align: center;
+}
+
+.firstcards{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 39px;
+}
